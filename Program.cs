@@ -43,7 +43,7 @@ if (app.Environment.IsDevelopment())
 }
 
 // Sử dụng các middleware
-app.UseCors("AllowReactApp");
+app.UseCors("AllowAll");
 app.UseHttpsRedirection();
 app.UseAuthentication();
 app.UseAuthorization();

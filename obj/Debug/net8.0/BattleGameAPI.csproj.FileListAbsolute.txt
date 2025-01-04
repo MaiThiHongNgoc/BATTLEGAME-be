@@ -137,3 +137,4 @@ C:\Users\ADMIN\Documents\BattleGameAPI\obj\Debug\net8.0\refint\BattleGameAPI.dll
 C:\Users\ADMIN\Documents\BattleGameAPI\obj\Debug\net8.0\BattleGameAPI.pdb
 C:\Users\ADMIN\Documents\BattleGameAPI\obj\Debug\net8.0\BattleGameAPI.genruntimeconfig.cache
 C:\Users\ADMIN\Documents\BattleGameAPI\obj\Debug\net8.0\ref\BattleGameAPI.dll
+C:\Users\ADMIN\Documents\BattleGameAPI\obj\Debug\net8.0\BattleGameAPI.sourcelink.json
